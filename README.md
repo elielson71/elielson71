@@ -26,8 +26,8 @@
 </div>
 </br>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=teixeiraJonas&show_icons=true&count_private=true&hide_border=true&theme=github_dark&hide=stars" width="55%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teixeiraJonas&theme=github_dark&hide_border=true&show_icons=true&count_private=true&layout=compact&langs_count=6" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=elielson71&show_icons=true&count_private=true&hide_border=true&theme=github_dark&hide=stars" width="55%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elielson71&theme=github_dark&hide_border=true&show_icons=true&count_private=true&layout=compact&langs_count=6" width="40%"/>
 </p>
 
 ## Sociais
