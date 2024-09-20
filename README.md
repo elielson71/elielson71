@@ -9,7 +9,6 @@
 
 ## Skill
 <div align="left">  
-  <img style="margin: 10px" src="https://www.pngkey.com/png/full/275-2752575_ue4-logo-unreal-engine-logo-png.png" alt="Unreal" height="40" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /> 
   <img style="margin: 10px" src="https://reactnative.dev/img/header_logo.svg" alt="React" height="40" />  
   <img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="Node.JS" height="40" />  
@@ -32,8 +31,6 @@
 
 ## Sociais
 <p align="left">
-  <a href="https://twitter.com/teixeiraseji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="teixeiraseji" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/jonas-s-teixeira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonas-s-teixeira" height="30" width="40" /></a>
-  <a href="https://instagram.com/teixeiramao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="teixeiramao" height="30" width="40" /></a>
-  <a href="https://discord.gg/Seji#6562" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Seji#6562" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/elielson71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonas-s-teixeira" height="30" width="40" /></a>
+  <a href="https://instagram.com/elielson_61" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="teixeiramao" height="30" width="40" /></a>
 </p>
